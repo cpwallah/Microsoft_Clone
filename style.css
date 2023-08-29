@@ -1,0 +1,73 @@
+*{margin:0;padding:0;box-sizing: border-box;}
+.body-style{
+    width: 90%;
+    margin:0 auto;
+}
+.logostyle{
+    height:110px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 450px;
+  }
+  .carousel-caption button{
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+    padding:10px  20px;
+  }
+  .carousel-caption{
+    color: white;
+    font-weight: bold;
+  }
+  .card{border: none!important;}
+  main{
+    margin: 40px 0;
+  }
+  .card-img-top{
+    height:170px;
+  }
+  .card-body{
+    font-style: italic;
+  }
+  .msstyle{
+    width: 100%;
+    height:450px;
+    background-image: linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)), url('../images/shit1.png');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 70px;
+  }
+  button{
+    color: #000;
+    background: #fff;
+    font-size: 15px;
+    padding:10px  20px;
+  }
+  .trq{
+    margin:50px 0;
+  }
+  .fa-youtube{
+    color:red;
+  }
+  .maow{
+    margin:50px 0;
+  }
+
+  footer{
+    background: #f2f2f2;
+    left:0;
+    right:0;
+    bottom:0;
+    padding:40px 0;
+    
+  }
+  .container{
+    position: relative;
+
+  }
